@@ -9,6 +9,8 @@
  * Constants
  */
 
+console.log(this is my content);
+
 const elementMap = new Map()
 
 export default {
