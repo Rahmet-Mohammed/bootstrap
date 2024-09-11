@@ -9,7 +9,7 @@
  * Constants
  */
 
-console.log(this is my content);
+console.log(thisis my content);
 
 const elementMap = new Map()
 
